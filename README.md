@@ -23,3 +23,9 @@ Binary Search
 
 Bubble Sort
 10. A sorting algorithm where the largest values bubble up to the top!
+
+Selection Sort
+11. Similar to bubble sort, but instead of first placing large values into sorted position, it places small values into sorted position
+
+Insertion Sort
+12. Builds up the sort by gradually creating a larger left half which is always sorted
