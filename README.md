@@ -29,3 +29,7 @@ Selection Sort
 
 Insertion Sort
 12. Builds up the sort by gradually creating a larger left half which is always sorted
+
+# Daily coding practice
+
+Commiting daily coding problems for all patterns. Looking forward ..... 
